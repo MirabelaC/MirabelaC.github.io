@@ -1,0 +1,14 @@
+body {background: lightblue;}
+h1 {color: purple;
+margin: auto;
+text-align: center;}
+
+.purple {
+	display: flex;
+	background-color: purple;
+	color: white;
+	justify-content: center;
+	border: 5px solid black;
+	padding: 25px;
+	margin: 25px;
+}

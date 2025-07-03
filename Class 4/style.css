@@ -1,0 +1,35 @@
+body {background: lightpink;}
+h1 {color: white;
+font-style: italic;
+background: purple;
+width: 350px;}
+h2 {font-style: italic;}
+p{color: #660066;}
+#special {
+	color: white;
+	background: purple;
+	width: 200px;
+}
+
+.highlighted{
+	background: orange;
+	width: 200px;
+}
+
+#cyan{
+	background: cyan;
+	width: 200px;
+	border: 5px solid green;
+	padding: : 25px;
+	margin: 25px;
+}
+#green {
+	background: green;
+	width: 200px;
+}
+
+.container {
+	display: flex;
+	gap: 20px;
+	justify-content: space-evenly;
+}
